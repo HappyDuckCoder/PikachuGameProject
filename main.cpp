@@ -1,4 +1,5 @@
 //This main just include GameRunning.h for use GameRunning() function
+//change for your project
 
 #include "GameRunning.h"
 
